@@ -34,6 +34,5 @@ public class Lab034_Char_Literal {
         char my_laugh_smily = '\u1f60'; // :)
         System.out.println(my_laugh_smily);
 
-
     }
 }
